@@ -1,7 +1,7 @@
 package main
 import "fmt"
 func main(){
-	fmt.Println("Satu = ", 1)
-	fmt.Println("Dua = ", 2)
-	fmt.Println("Tiga Koma Lima = ", 3,5)
+	fmt.Println("One = ", 1)
+	fmt.Println("Two = ", 2)
+	fmt.Println("Three point five = ", 3,5)
 }
