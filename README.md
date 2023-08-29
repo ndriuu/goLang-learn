@@ -1,4 +1,4 @@
-# Golang-learn
+# golang-learn
 Introduction of Go Language
 
 ## Description
